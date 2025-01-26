@@ -1,7 +1,0 @@
-[package]
-name = "example-hello-rust"
-version = "0.1.0"
-edition = "2021"
-
-# No dependencies needed for this minimal example
-[dependencies]
